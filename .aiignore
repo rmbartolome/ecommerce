@@ -1,0 +1,44 @@
+# Secretos y entorno
+.env
+.env.*
+*.env
+*.pem
+*.key
+*.p12
+secrets/
+credentials/
+
+# Dependencias
+node_modules/
+vendor/
+.pnp/
+
+# Build / artefactos
+dist/
+build/
+.next/
+.astro/
+.nuxt/
+out/
+*.tar.gz
+*.zip
+*.tgz
+
+# Logs
+*.log
+logs/
+
+# IaC estado
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

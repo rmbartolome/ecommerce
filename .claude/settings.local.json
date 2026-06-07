@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(read dir *)",
+      "Bash(touch __TRACKED_VAR__/.gitkeep)",
+      "Bash(touch /Users/rmbartolome/ai-projects/ecommerce/docs/strategy/.gitkeep)",
+      "Bash(touch /Users/rmbartolome/ai-projects/ecommerce/docs/decisions/.gitkeep)",
+      "Bash(touch /Users/rmbartolome/ai-projects/ecommerce/docs/briefings/.gitkeep)"
+    ]
+  }
+}
