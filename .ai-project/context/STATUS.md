@@ -69,7 +69,27 @@
 - [x] AG ejecuta Tarea 4.2 (Calculadora Unit Economics)
 - [x] AG aplica correcciones finales y hace el commit de cierre de Semana 1
 
+**SEMANA 2 (Research)**
+- [x] AG ejecuta Tarea 1.1 (Research España por categoría)
+- [x] AG ejecuta Tarea 1.2 (Research Venezuela)
+- [x] CEO/Claude Code revisan y auditan Tareas 1.1 y 1.2
+- [x] AG ejecuta Tareas 2.1 y 2.4 (Cosmética)
+- [x] CEO/Claude Code revisan y auditan Tareas 2.1 y 2.4
+- [x] AG ejecuta Tareas 3.1 y 3.2 (Moda)
+- [x] CEO/Claude Code revisan y auditan Tareas 3.1 y 3.2
+- [x] AG ejecuta Tarea 4.1 (Canales de venta)
+- [x] CEO/Claude Code auditan Tarea 4.1 y cerramos la Fase 0 (Research)
+
 ---
+
+**SEMANA 3 (Cierre S2 + Research Restante)**
+- [x] AG aplica corrección Tarea 4.1 (Paso 0)
+- [x] AG hace commit de cierre Semana 2
+- [ ] AG ejecuta Tarea 1.3 (Herramientas Detección)
+- [ ] AG ejecuta Tarea 1.4 (Proveedores Dropshipping)
+- [ ] AG ejecuta Tarea 2.2 (Perfumería Autor)
+- [ ] CEO/Claude Code auditan Tareas 1.3, 1.4, 2.2
+- [ ] Commit de cierre Semana 3
 
 ## DEUDA RESIDUAL (no bloqueante)
 

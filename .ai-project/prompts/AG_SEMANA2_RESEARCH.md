@@ -1,10 +1,30 @@
 # PROMPT AG — Semana 2: Research de Mercado
 
+> ⚠️ **SEMANA 2 EN PASE DE LIMPIEZA** — 2026-06-07
+> Todos los entregables completados y auditados. Pendiente aplicar correcciones de Tarea 4.1
+> y ejecutar el commit de cierre. Ver Semana 3 para el pase de limpieza + commit.
+
+---
+
 > **Herramienta:** Gemini Pro (Google AI Studio o Gemini Advanced)
 > **Cuándo usar:** Una vez completada y aprobada la Semana 1 (árboles de categorías)
-> **Output:** 6 documentos de research en el repositorio
+> **Output:** 7 documentos de research en el repositorio (tareas 1.1, 1.2, 2.1, 2.4, 3.1, 3.2, 4.1)
 > **Tiempo estimado:** 2-3 sesiones de trabajo
 > **Nota:** Gemini Pro hace el research. Claude Project sintetiza y genera el documento final.
+
+## ESTADO DE ENTREGABLES (para referencia)
+
+| Tarea | Archivo | Estado Claude Code |
+|---|---|---|
+| 1.1 | `01_ecommerce_disruptivo/market_research/2026-06_mercado_espana_categorias.md` | ✅ Aprobado |
+| 1.2 | `01_ecommerce_disruptivo/market_research/2026-06_mercado_venezuela_arbitraje.md` | ✅ Aprobado |
+| 2.1 | `02_cosmetica/suppliers/2026-06_kbeauty_proveedores_europa.md` | ✅ Aprobado |
+| 2.4 | `02_cosmetica/regulatory/2026-06_sacs_venezuela_guia.md` | ✅ Aprobado |
+| 3.1 | `03_moda/suppliers/2026-06_plataformas_pod_espana.md` | ✅ Aprobado |
+| 3.2 | `03_moda/market_research/2026-06_nichos_moda_espana.md` | ✅ Aprobado |
+| 4.1 | `shared/analytics/2026-06_comparativa_canales_venta.md` | ⚠️ Aprobado con correcciones menores pendientes |
+
+---
 
 ---
 
