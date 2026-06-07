@@ -85,11 +85,11 @@
 **SEMANA 3 (Cierre S2 + Research Restante)**
 - [x] AG aplica corrección Tarea 4.1 (Paso 0)
 - [x] AG hace commit de cierre Semana 2
-- [ ] AG ejecuta Tarea 1.3 (Herramientas Detección)
-- [ ] AG ejecuta Tarea 1.4 (Proveedores Dropshipping)
-- [ ] AG ejecuta Tarea 2.2 (Perfumería Autor)
-- [ ] CEO/Claude Code auditan Tareas 1.3, 1.4, 2.2
-- [ ] Commit de cierre Semana 3
+- [x] AG ejecuta Tarea 1.3 (Herramientas Detección)
+- [x] AG ejecuta Tarea 1.4 (Proveedores Dropshipping)
+- [x] AG ejecuta Tarea 2.2 (Perfumería Autor)
+- [x] CEO/Claude Code auditan Tareas 1.3, 1.4, 2.2
+- [x] Commit de cierre Semana 3
 
 ## DEUDA RESIDUAL (no bloqueante)
 
