@@ -1,0 +1,28 @@
+# Secrets y credenciales — NUNCA en el repo
+.env
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Archivos temporales
+*.tmp
+*.bak
+~*
+
+# Activos pesados (usar Git LFS si es necesario)
+*.mp4
+*.mov
+*.psd
+*.ai
